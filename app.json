@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "spacex_launches",
+    "slug": "spacex_launches",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "spacex_launches"
+}
